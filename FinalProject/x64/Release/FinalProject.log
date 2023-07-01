@@ -1,0 +1,18 @@
+﻿  FinalProject.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(72,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(177,2): error C2653: 'filesystem': is not a class or namespace name
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(177,14): error C2065: 'path': undeclared identifier
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(177,19): error C2146: syntax error: missing ';' before identifier 'inputFilePath'
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(177,19): error C2065: 'inputFilePath': undeclared identifier
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(178,2): error C2653: 'filesystem': is not a class or namespace name
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(178,14): error C2065: 'path': undeclared identifier
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(178,19): error C2146: syntax error: missing ';' before identifier 'outputDirectoryPath'
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(178,19): error C2065: 'outputDirectoryPath': undeclared identifier
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(179,2): error C2653: 'filesystem': is not a class or namespace name
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(179,14): error C2065: 'path': undeclared identifier
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(179,19): error C2146: syntax error: missing ';' before identifier 'outputFilePath'
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(179,19): error C2065: 'outputFilePath': undeclared identifier
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(179,36): error C2065: 'outputDirectoryPath': undeclared identifier
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(179,59): error C2065: 'inputFilePath': undeclared identifier
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(180,15): error C2065: 'outputFilePath': undeclared identifier

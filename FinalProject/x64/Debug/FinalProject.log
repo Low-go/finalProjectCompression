@@ -1,0 +1,3 @@
+﻿  FinalProject.cpp
+D:\repos\FinalProject\FinalProject\FinalProject.cpp(75,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FinalProject.vcxproj -> D:\repos\FinalProject\x64\Debug\FinalProject.exe
